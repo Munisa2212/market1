@@ -44,3 +44,10 @@ body{
     height: 30px;
     width: 200px;
 }
+
+.header{
+    margin: 20px 500px;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+}
